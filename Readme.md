@@ -1,2 +1,1 @@
-test
-2
+terraform init -backend-config="bucket="
